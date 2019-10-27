@@ -8,6 +8,7 @@ add_subdirectory(PIM)
 add_subdirectory(StatusBarIcons)
 add_subdirectory(TabManager)
 add_subdirectory(VerticalTabs)
+add_subdirectory(BlockMatrix)
 
 if (ENABLE_KDE_FRAMEWORKS_INTEGRATION_PLUGIN)
     add_subdirectory(KDEFrameworksIntegration)
